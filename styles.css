@@ -13,6 +13,13 @@ body{
 }
 .player_two{
 	background-color: rgb(255, 255, 255);
-	padding: border-radius
-	
+	padding: border-radius	
+}
+ul {
+    list-style-type: none;
+   /* Optional: Remove default padding */
+}
+
+li {
+    list-style-type: none;
 }
